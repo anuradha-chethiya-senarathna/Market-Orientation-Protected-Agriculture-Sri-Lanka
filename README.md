@@ -12,20 +12,6 @@ This repository contains the undergraduate research by Meegahakumbure Gedara Kur
 
 ## Contents
 - [Research Report (PDF)](report/Research_Report.pdf)
-- [Questionnaire](questionnaire/Questionnaire.pdf)
-- [Figures](figures/)
-  - [Figure 4.6: Boxplot PAF](figures/Figure_4.6_Boxplot_PAF.png)
-  - [Figure 4.7: Boxplot OFF](figures/Figure_4.7_Boxplot_OFF.png)
-  - [Figure 4.8: Radar PAF](figures/Figure_4.8_Radar_PAF.png)
-  - [Figure 4.9: Radar OFF](figures/Figure_4.9_Radar_OFF.png)
-- [Tables](tables/)
-  - [Table 4.1: MO Scores](tables/Table_4.1_MO_Scores.csv)
-  - [Table 4.2: Wilcoxon PAF](tables/Table_4.2_Wilcoxon_PAF.csv)
-  - [Table 4.3: Wilcoxon OFF](tables/Table_4.3_Wilcoxon_OFF.csv)
-- [Data](data/)
-  - [Anonymized Data](data/Anonymized_Data.csv)
-  - [Data Description](data/Data_Description.md)
-- [Analysis Code](code/Analysis.R)
 
 ## License
 Licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
