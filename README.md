@@ -11,7 +11,7 @@ This repository contains the undergraduate research by Meegahakumbure Gedara Kur
 - Recommendations: Adopt cost-sharing models, provide MO training.
 
 ## Contents
-- [Research Report (PDF)](report/Research_Report.pdf)
+- [Research Report (PDF)](Research_Report.pdf)
 
 ## License
 Licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
